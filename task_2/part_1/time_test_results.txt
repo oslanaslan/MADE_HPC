@@ -1,0 +1,7 @@
+==== Building MatrixMul (release_x64) ====
+Test 500 x 500: 97 millisec
+Test 512 x 512: 103 millisec
+Test 1000 x 1000: 777 millisec
+Test 1024 x 1024: 841 millisec
+Test 2000 x 2000: 18112 millisec
+Test 2048 x 2048: 22394 millisec

@@ -1,0 +1,174 @@
+Matrix size: 500 x 500
+runtime 0.091475 seconds
+runtime 0.091713 seconds
+runtime 0.091779 seconds
+runtime 0.091821 seconds
+runtime 0.091755 seconds
+average runtime ijk 0.091709 seconds
+---------------------------------
+runtime 0.090296 seconds
+runtime 0.090306 seconds
+runtime 0.090163 seconds
+runtime 0.090144 seconds
+runtime 0.090135 seconds
+average runtime jik 0.090209 seconds
+---------------------------------
+runtime 0.025306 seconds
+runtime 0.025348 seconds
+runtime 0.025385 seconds
+runtime 0.025497 seconds
+runtime 0.025493 seconds
+average runtime kij 0.025406 seconds
+---------------------------------
+runtime 0.032323 seconds
+runtime 0.031974 seconds
+runtime 0.031971 seconds
+runtime 0.031953 seconds
+runtime 0.032219 seconds
+average runtime kij opt 0.032088 seconds
+---------------------------------
+Matrix size: 512 x 512
+runtime 1.035807 seconds
+runtime 1.020880 seconds
+runtime 1.038165 seconds
+runtime 1.038406 seconds
+runtime 1.038043 seconds
+average runtime ijk 1.034260 seconds
+---------------------------------
+runtime 1.088624 seconds
+runtime 1.090139 seconds
+runtime 1.090249 seconds
+runtime 1.090447 seconds
+runtime 1.069786 seconds
+average runtime jik 1.085849 seconds
+---------------------------------
+runtime 0.026976 seconds
+runtime 0.027204 seconds
+runtime 0.027224 seconds
+runtime 0.027224 seconds
+runtime 0.027232 seconds
+average runtime kij 0.027172 seconds
+---------------------------------
+runtime 0.034368 seconds
+runtime 0.034286 seconds
+runtime 0.034757 seconds
+runtime 0.034312 seconds
+runtime 0.034336 seconds
+average runtime kij opt 0.034412 seconds
+---------------------------------
+Matrix size: 1000 x 1000
+runtime 0.736784 seconds
+runtime 0.744434 seconds
+runtime 0.741350 seconds
+runtime 0.743017 seconds
+runtime 0.737329 seconds
+average runtime ijk 0.740583 seconds
+---------------------------------
+runtime 0.732136 seconds
+runtime 0.734987 seconds
+runtime 0.731742 seconds
+runtime 0.731523 seconds
+runtime 0.731922 seconds
+average runtime jik 0.732462 seconds
+---------------------------------
+runtime 0.218801 seconds
+runtime 0.202610 seconds
+runtime 0.201901 seconds
+runtime 0.202240 seconds
+runtime 0.202050 seconds
+average runtime kij 0.205520 seconds
+---------------------------------
+runtime 0.252930 seconds
+runtime 0.256684 seconds
+runtime 0.259419 seconds
+runtime 0.255572 seconds
+runtime 0.262303 seconds
+average runtime kij opt 0.257382 seconds
+---------------------------------
+Matrix size: 1024 x 1024
+runtime 8.186924 seconds
+runtime 8.112419 seconds
+runtime 7.990359 seconds
+runtime 8.253910 seconds
+runtime 8.264760 seconds
+average runtime ijk 8.161674 seconds
+---------------------------------
+runtime 8.554394 seconds
+runtime 8.551779 seconds
+runtime 8.553389 seconds
+runtime 8.551216 seconds
+runtime 8.564437 seconds
+average runtime jik 8.555043 seconds
+---------------------------------
+runtime 0.224936 seconds
+runtime 0.225445 seconds
+runtime 0.226125 seconds
+runtime 0.225525 seconds
+runtime 0.225637 seconds
+average runtime kij 0.225534 seconds
+---------------------------------
+runtime 0.277977 seconds
+runtime 0.277839 seconds
+runtime 0.277685 seconds
+runtime 0.277869 seconds
+runtime 0.277747 seconds
+average runtime kij opt 0.277823 seconds
+---------------------------------
+Matrix size: 2000 x 2000
+runtime 11.244136 seconds
+runtime 11.221394 seconds
+runtime 11.229262 seconds
+runtime 11.324057 seconds
+runtime 11.844468 seconds
+average runtime ijk 11.372663 seconds
+---------------------------------
+runtime 7.795059 seconds
+runtime 7.760515 seconds
+runtime 7.902629 seconds
+runtime 7.774146 seconds
+runtime 7.841748 seconds
+average runtime jik 7.814819 seconds
+---------------------------------
+runtime 5.977040 seconds
+runtime 5.996662 seconds
+runtime 6.050824 seconds
+runtime 6.001597 seconds
+runtime 5.964821 seconds
+average runtime kij 5.998189 seconds
+---------------------------------
+runtime 6.078316 seconds
+runtime 5.980629 seconds
+runtime 6.014159 seconds
+runtime 5.994439 seconds
+runtime 5.998884 seconds
+average runtime kij opt 6.013285 seconds
+---------------------------------
+Matrix size: 2048 x 2048
+runtime 47.280892 seconds
+runtime 47.305053 seconds
+runtime 47.169666 seconds
+runtime 46.548273 seconds
+runtime 47.092871 seconds
+average runtime ijk 47.079351 seconds
+---------------------------------
+runtime 48.048245 seconds
+runtime 47.898004 seconds
+runtime 47.764770 seconds
+runtime 47.912583 seconds
+runtime 47.753088 seconds
+average runtime jik 47.875338 seconds
+---------------------------------
+runtime 6.354147 seconds
+runtime 6.415724 seconds
+runtime 6.333185 seconds
+runtime 6.333406 seconds
+runtime 6.272787 seconds
+average runtime kij 6.341850 seconds
+---------------------------------
+runtime 6.334855 seconds
+runtime 6.339608 seconds
+runtime 6.344801 seconds
+runtime 6.319800 seconds
+runtime 6.379097 seconds
+average runtime kij opt 6.343632 seconds
+---------------------------------
